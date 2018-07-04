@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">付费知识</h1>
         </header>
         <Question />
-        <Answer />
+        <Answer>go to Reactjs.org!!!</Answer>
       </div>
     );
   }
